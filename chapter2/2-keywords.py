@@ -1,0 +1,2 @@
+﻿import keyword
+keyword.kwlist

@@ -1,0 +1,5 @@
+﻿type (3)
+type (2.5)
+type ('Hello, World!')
+type ('15')
+type ('3.7')
