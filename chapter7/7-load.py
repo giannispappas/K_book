@@ -1,0 +1,7 @@
+﻿f = open('myfile.txt','rb')
+x = pickle.load(f)
+type(x)
+print(x)
+l=pickle.load(f)
+type(l)
+print(l)

@@ -1,0 +1,7 @@
+﻿f = open('myfile.txt','w')
+f.write(str(5.2))
+f.write(str([1,2,3]))
+f.close()
+f=open('myfile.txt','r')
+f.readline()
+f.close()
