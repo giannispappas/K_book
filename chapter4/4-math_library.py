@@ -1,0 +1,2 @@
+﻿import math
+help(math)
