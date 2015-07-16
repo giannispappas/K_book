@@ -1,0 +1,10 @@
+fruit='banana'
+print(len(fruit))
+length=len(fruit)
+last_letter=fruit[length]
+length=len(fruit)
+last_letter=fruit[length-1]
+print(last_letter)
+print(fruit[-1])
+print(fruit[-2])
+print(fruit[-length])
