@@ -1,6 +1,6 @@
 ﻿def growRect(box, dwidth, dheight):
 	box.width = box.width + dwidth
-	box.height = box.heiht + dheight
+	box.height = box.height + dheight
 
 
 bob=Rectangle()
