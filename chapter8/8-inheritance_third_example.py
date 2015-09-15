@@ -19,7 +19,7 @@ class Hybrid(Car):
         self.battery_life=20
     def __str__(self):
         s=Car.__str__(self)
-        s = s+'->Battery Life'+str(self.battery_life)
+        s = s+'->Battery Life:'+str(self.battery_life)
         return s
     def set_battery_life(self,bl=20):
         self.battery_life=bl
@@ -31,3 +31,4 @@ h = Hybrid()
 h.set_color('Red')
 print(c)
 print(h)
+
